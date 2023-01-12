@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Salman</h1>
-<h3 align="center">Full Stack Web Developer working for over 4+ years and loving it!</h3>
+<h3 align="center">Full Stack Web Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=salmanmalyk&label=Profile%20views&color=0e75b6&style=flat" alt="salmanmalyk" /> </p>
 
