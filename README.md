@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Ruby on Rails, Django**
 
-- 💬 Ask me about **react, vue and jQuery**
+- 💬 Ask me about **Laravel, React, Nextjs, Vue, Nuxtjs, TailwindCSS, Nodejs**
 
 - 📫 How to reach me **salmanmalik508@gmail.com**
 
