@@ -13,16 +13,9 @@
 
 - 📫 How to reach me **salmanmalik508@gmail.com**
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/salmanmalyk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="salmanmalyk" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/salman-ashraf-437166157" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="salman-ashraf-437166157" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/6576454" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="6576454" height="30" width="40" /></a>
-<a href="https://instagram.com/salman.malyk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="salman.malyk" height="30" width="40" /></a>
 <a href="https://medium.com/@salmanmalik508" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@salmanmalik508" height="30" width="40" /></a>
 </p>
 
