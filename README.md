@@ -22,7 +22,3 @@
 <a href="https://stackoverflow.com/users/6576454" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="6576454" height="30" width="40" /></a>
 <a href="https://medium.com/@salmanmalik508" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@salmanmalik508" height="30" width="40" /></a>
 </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=salmanmalyk&show_icons=true&locale=en&layout=compact" alt="salmanmalyk" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=salmanmalyk&show_icons=true&locale=en" alt="salmanmalyk" /></p>
