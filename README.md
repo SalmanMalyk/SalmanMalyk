@@ -13,7 +13,6 @@
 
 ```typescript
 const salman = {
-    location: "Pakistan 🇵🇰",
     currentFocus: ["AI Development", "Workflow Automation", "LangGraph", "N8N"],
     workingOn: "Raven AI - Intelligent Email Automation System",
     techStack: {
