@@ -55,8 +55,8 @@ const salman = {
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=typescript,javascript,nodejs,php,laravel,react,nextjs,vue,nuxtjs,tailwind" alt="Primary Skills"/><br/>
-    <img src="https://skillicons.dev/icons?i=postgres,mongodb,docker,aws,git,github,vscode,postman,alpine,markdown" alt="Tools & Technologies"/>
+    <img src="https://skillicons.dev/icons?i=typescript,javascript,nodejs,php,laravel,react,nextjs,vue,nuxtjs,tailwind,bootstrap,alpinejs,astro,aiscript,vite" alt="Primary Skills"/><br/>
+    <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis,supabase,docker,aws,vercel,gcp,git,github,vscode,postman,markdown,apple" alt="Tools & Technologies"/>
   </a>
 </p>
 
