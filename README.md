@@ -1,11 +1,26 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:203a43,100:13AA50&height=190&section=header&text=Salman%20Malik&fontSize=58&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Engineer%20and%20AI%20Automation&descAlignY=60&descSize=16" width="100%" />
+
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=13AA50&center=true&vCenter=true&width=940&lines=Hi+%F0%9F%91%8B%2C+I'm+Salman;Full+Stack+Developer+%7C+AI+Enthusiast;Building+Intelligent+Solutions+with+Modern+Tech" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2600&pause=1200&color=13AA50&center=true&vCenter=true&width=820&lines=Laravel+%C2%B7+React+%C2%B7+Next.js+%C2%B7+Node.js;LangChain+%C2%B7+LangGraph+%C2%B7+n8n;I+build+agents+that+do+the+boring+work" alt="Typing SVG" />
 </div>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=salmanmalyk&label=Profile%20Views&color=13AA50&style=flat" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/salmanmalyk?label=Followers&style=flat&color=13AA50" alt="followers" />
+  <img src="https://komarev.com/ghpvc/?username=salmanmalyk&label=Profile%20views&color=13AA50&style=flat-square" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/salmanmalyk?label=Followers&style=flat-square&color=13AA50" alt="Followers" />
+  <img src="https://img.shields.io/badge/Lahore-Pakistan-13AA50?style=flat-square&logo=googlemaps&logoColor=white" alt="Location" />
+  <img src="https://img.shields.io/badge/Open%20to-Collaboration-13AA50?style=flat-square" alt="Open to collaboration" />
 </p>
+
+---
+
+### 🔭 Currently Building
+
+> **Raven AI** — an email automation system that classifies, personalises and drafts
+> replies using LangGraph state machines and Claude.
+>
+> `TypeScript` `LangChain` `LangGraph` `Supabase`
+>
+> → [github.com/SalmanMalyk/raven-ai](https://github.com/SalmanMalyk/raven-ai)
 
 ---
 
@@ -13,122 +28,85 @@
 
 ```typescript
 const salman = {
-    currentFocus: ["AI Development", "Workflow Automation", "LangGraph", "N8N"],
-    workingOn: "Raven AI - Intelligent Email Automation System",
-    techStack: {
-        backend: ["Node.js", "Express", "PHP", "Laravel"],
-        frontend: ["React", "Next.js", "Vue", "Nuxt.js", "Alpine.js", "Remix.js", "Astro.js"],
-        styling: ["TailwindCSS"],
-        ai: ["LangChain", "LangGraph", "Claude AI", "OpenAI"],
-        databases: ["PostgreSQL", "MongoDB", "MySQL"],
-        devOps: ["Docker", "AWS", "GCP", "Vercel"],
-        tools: ["Git", "N8N"]
-    },
-    askMeAbout: ["Laravel", "React", "Next.js", "Vue", "Nuxt.js", "TailwindCSS", "Node.js", "AI"],
-    reachMe: "salmanmalik508@gmail.com"
+  role: "Full Stack Engineer",
+  focus: ["Agentic AI", "Workflow Automation", "Developer Experience"],
+  stack: {
+    backend:  ["Node.js", "Express", "PHP", "Laravel"],
+    frontend: ["React", "Next.js", "Vue", "Nuxt", "Remix", "Astro"],
+    ai:       ["LangChain", "LangGraph", "Claude", "OpenAI"],
+    data:     ["PostgreSQL", "MongoDB", "MySQL", "Redis"],
+    infra:    ["Docker", "AWS", "GCP", "Vercel"],
+  },
+  askMeAbout: ["Laravel", "React", "Next.js", "TailwindCSS", "AI agents"],
+  funFact:    "I automate anything I have to do more than twice",
 };
 ```
 
 ---
 
-### 🚀 Current Projects
+### 🛠️ Stack
 
-<table>
+<table align="center">
   <tr>
-    <td align="center" width="50%">
-      <h3>🤖 Raven AI</h3>
-      <p>Intelligent email automation system using LangGraph workflows and Claude AI for classification, personalization, and response generation</p>
-      <p><strong>Tech:</strong> TypeScript, LangChain, LangGraph, Claude, Supabase</p>
-    </td>
-    <td align="center" width="50%">
-      <h3>🔄 Workflow Automation</h3>
-      <p>Exploring N8N and building complex automation workflows to streamline business processes</p>
-      <p><strong>Tech:</strong> N8N, Node.js, APIs</p>
-    </td>
+    <td align="right"><b>Languages</b></td>
+    <td><img src="https://skillicons.dev/icons?i=typescript,javascript,php,python,html,css" /></td>
+  </tr>
+  <tr>
+    <td align="right"><b>Frontend</b></td>
+    <td><img src="https://skillicons.dev/icons?i=react,nextjs,vue,nuxtjs,astro,tailwind,vite" /></td>
+  </tr>
+  <tr>
+    <td align="right"><b>Backend</b></td>
+    <td><img src="https://skillicons.dev/icons?i=nodejs,express,laravel,graphql,supabase" /></td>
+  </tr>
+  <tr>
+    <td align="right"><b>Data</b></td>
+    <td><img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis" /></td>
+  </tr>
+  <tr>
+    <td align="right"><b>Infra</b></td>
+    <td><img src="https://skillicons.dev/icons?i=docker,aws,gcp,vercel,git,github,vscode,postman" /></td>
   </tr>
 </table>
 
----
-
-### 🛠️ Tech Stack & Tools
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=typescript,javascript,nodejs,php,laravel,react,nextjs,vue,nuxtjs,tailwind,bootstrap,alpinejs,astro,aiscript,vite" alt="Primary Skills"/><br/>
-    <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis,supabase,docker,aws,vercel,gcp,git,github,vscode,postman,markdown,apple" alt="Tools & Technologies"/>
-  </a>
-</p>
-
-**Currently Learning:** 🧠 AI, LangChain, LangGraph, N8N Workflow Automation
+<p align="center"><b>Currently learning:</b> agentic architectures, LangGraph, n8n</p>
 
 ---
 
-### 📊 GitHub Stats
+### 📊 Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=salmanmalyk&show_icons=true&theme=dark&bg_color=0d1117&title_color=13AA50&icon_color=13AA50&text_color=c9d1d9&border_color=30363d&hide_border=true" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=salmanmalyk&layout=compact&theme=dark&bg_color=0d1117&title_color=13AA50&text_color=c9d1d9&border_color=30363d&hide_border=true" alt="Top Languages" height="165"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=salmanmalyk&theme=github_dark" width="98%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=salmanmalyk&theme=dark&background=0d1117&ring=13AA50&fire=13AA50&currStreakLabel=13AA50&border=30363d&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=salmanmalyk&theme=github_dark" height="190" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=salmanmalyk&theme=github_dark" height="190" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=salmanmalyk&theme=dark&background=0d1117&ring=13AA50&fire=13AA50&currStreakLabel=13AA50&hide_border=true" height="190" />
 </p>
 
 ---
 
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=salmanmalyk&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies"/>
-</p>
-
----
-
-### 📝 Latest Blog Posts
+### ✍️ Writing
 
 <!-- BLOG-POST-LIST:START -->
-- Check out my articles on [Medium](https://medium.com/@salmanmalik508)
+- Reading and writing about agents, automation and shipping fast on [Medium](https://medium.com/@salmanmalik508)
 <!-- BLOG-POST-LIST:END -->
 
 ---
 
-### 💡 What I'm Up To
-
-- 🔭 Building **Raven AI** - An intelligent email automation system with LangGraph
-- 🌱 Deep diving into **AI Development** with LangChain, LangGraph, and Claude
-- 🤖 Experimenting with **workflow automation** using N8N
-- 📚 Exploring **agentic AI** and state machines
-- 💬 Open to collaborating on **Full Stack** and **AI projects**
-
----
-
-### 🤝 Connect With Me
+### 🤝 Connect
 
 <p align="center">
-  <a href="mailto:salmanmalik508@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://stackoverflow.com/users/6576454">
-    <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Stack Overflow"/>
-  </a>
-  <a href="https://medium.com/@salmanmalik508">
-    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
-  </a>
-  <a href="https://github.com/salmanmalyk">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
+  <a href="mailto:salmanmalik508@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://medium.com/@salmanmalik508"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" /></a>
+  <a href="https://stackoverflow.com/users/6576454"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stack Overflow" /></a>
+  <a href="https://x.com/SalmanMaliik"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
 </p>
 
----
+<p align="center"><i>"Code is like humor. When you have to explain it, it's bad." — Cory House</i></p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer" alt="Footer"/>
-</p>
-
-<p align="center">
-  <i>⚡ "Code is like humor. When you have to explain it, it's bad." - Cory House</i>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=salmanmalyk&label=Thanks%20for%20visiting&color=13AA50&style=flat-square" alt="Thanks for visiting"/>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:13AA50,50:203a43,100:0d1117&height=120&section=footer" width="100%" />
