@@ -1,14 +1,26 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:203a43,100:13AA50&height=190&section=header&text=Salman&fontSize=58&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Engineer%20and%20AI%20Automation&descAlignY=60&descSize=16" width="100%" />
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0969DA,100:13AA50&height=4" width="100%" alt="" />
+</p>
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2600&pause=1200&color=13AA50&center=true&vCenter=true&width=820&lines=Laravel+%C2%B7+React+%C2%B7+Next.js+%C2%B7+Node.js;LangChain+%C2%B7+LangGraph+%C2%B7+n8n;I+build+agents+that+do+the+boring+work" alt="Typing SVG" />
-</div>
+<h1 align="center">Salman</h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=salmanmalyk&label=Profile%20views&color=13AA50&style=flat-square" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/salmanmalyk?label=Followers&style=flat-square&color=13AA50" alt="Followers" />
-  <img src="https://img.shields.io/badge/Lahore-Pakistan-13AA50?style=flat-square&logo=googlemaps&logoColor=white" alt="Location" />
-  <img src="https://img.shields.io/badge/Open%20to-Collaboration-13AA50?style=flat-square" alt="Open to collaboration" />
+  Full Stack Engineer &nbsp;·&nbsp; AI &amp; Workflow Automation &nbsp;·&nbsp;
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2800&pause=1400&color=3FB950&center=true&vCenter=true&width=760&lines=Laravel+%C2%B7+React+%C2%B7+Next.js+%C2%B7+Node.js;LangChain+%C2%B7+LangGraph+%C2%B7+n8n;I+build+agents+that+do+the+boring+work" />
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2800&pause=1400&color=1A7F37&center=true&vCenter=true&width=760&lines=Laravel+%C2%B7+React+%C2%B7+Next.js+%C2%B7+Node.js;LangChain+%C2%B7+LangGraph+%C2%B7+n8n;I+build+agents+that+do+the+boring+work" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2800&pause=1400&color=13AA50&center=true&vCenter=true&width=760&lines=Laravel+%C2%B7+React+%C2%B7+Next.js+%C2%B7+Node.js;LangChain+%C2%B7+LangGraph+%C2%B7+n8n;I+build+agents+that+do+the+boring+work" alt="Laravel, React, Next.js, Node.js, LangChain, LangGraph, n8n" />
+  </picture>
+</p>
+
+<p align="center">
+  <a href="https://medium.com/@salmanmalik508"><img src="https://img.shields.io/badge/Medium-Articles-1A7F37?style=flat-square&logo=medium&logoColor=white" alt="Medium" /></a>
+  <a href="mailto:salmanmalik508@gmail.com"><img src="https://img.shields.io/badge/Email-Get%20in%20touch-0969DA?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+  <img src="https://img.shields.io/github/followers/salmanmalyk?label=Followers&style=flat-square&color=1A7F37&labelColor=57606A" alt="Followers" />
+  <img src="https://komarev.com/ghpvc/?username=salmanmalyk&label=Profile%20views&color=1A7F37&style=flat-square" alt="Profile views" />
 </p>
 
 ---
@@ -49,23 +61,53 @@ const salman = {
 <table align="center">
   <tr>
     <td align="right"><b>Languages</b></td>
-    <td><img src="https://skillicons.dev/icons?i=typescript,javascript,php,python,html,css" /></td>
+    <td>
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=typescript%2Cjavascript%2Cphp%2Cpython%2Chtml%2Ccss&theme=dark" />
+        <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=typescript%2Cjavascript%2Cphp%2Cpython%2Chtml%2Ccss&theme=light" />
+        <img src="https://skillicons.dev/icons?i=typescript,javascript,php,python,html,css" alt="TypeScript, JavaScript, PHP, Python, HTML, CSS" />
+      </picture>
+    </td>
   </tr>
   <tr>
     <td align="right"><b>Frontend</b></td>
-    <td><img src="https://skillicons.dev/icons?i=react,nextjs,vue,nuxtjs,astro,tailwind,vite" /></td>
+    <td>
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=react%2Cnextjs%2Cvue%2Cnuxtjs%2Castro%2Ctailwind%2Cvite&theme=dark" />
+        <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=react%2Cnextjs%2Cvue%2Cnuxtjs%2Castro%2Ctailwind%2Cvite&theme=light" />
+        <img src="https://skillicons.dev/icons?i=react,nextjs,vue,nuxtjs,astro,tailwind,vite" alt="React, Next.js, Vue, Nuxt, Astro, Tailwind, Vite" />
+      </picture>
+    </td>
   </tr>
   <tr>
     <td align="right"><b>Backend</b></td>
-    <td><img src="https://skillicons.dev/icons?i=nodejs,express,laravel,graphql,supabase" /></td>
+    <td>
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=nodejs%2Cexpress%2Claravel%2Cgraphql%2Csupabase&theme=dark" />
+        <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=nodejs%2Cexpress%2Claravel%2Cgraphql%2Csupabase&theme=light" />
+        <img src="https://skillicons.dev/icons?i=nodejs,express,laravel,graphql,supabase" alt="Node.js, Express, Laravel, GraphQL, Supabase" />
+      </picture>
+    </td>
   </tr>
   <tr>
     <td align="right"><b>Data</b></td>
-    <td><img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis" /></td>
+    <td>
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=postgres%2Cmysql%2Cmongodb%2Credis&theme=dark" />
+        <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=postgres%2Cmysql%2Cmongodb%2Credis&theme=light" />
+        <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis" alt="PostgreSQL, MySQL, MongoDB, Redis" />
+      </picture>
+    </td>
   </tr>
   <tr>
     <td align="right"><b>Infra</b></td>
-    <td><img src="https://skillicons.dev/icons?i=docker,aws,gcp,vercel,git,github,vscode,postman" /></td>
+    <td>
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=docker%2Caws%2Cgcp%2Cvercel%2Cgit%2Cgithub%2Cvscode%2Cpostman&theme=dark" />
+        <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=docker%2Caws%2Cgcp%2Cvercel%2Cgit%2Cgithub%2Cvscode%2Cpostman&theme=light" />
+        <img src="https://skillicons.dev/icons?i=docker,aws,gcp,vercel,git,github,vscode,postman" alt="Docker, AWS, GCP, Vercel, Git, GitHub, VS Code, Postman" />
+      </picture>
+    </td>
   </tr>
 </table>
 
@@ -76,16 +118,32 @@ const salman = {
 ### 📊 Stats
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=salmanmalyk&theme=github_dark" width="98%" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=salmanmalyk&theme=github_dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=salmanmalyk&theme=default" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=salmanmalyk&theme=github_dark" width="98%" alt="Profile details" />
+  </picture>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=salmanmalyk&theme=github_dark" height="190" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=salmanmalyk&theme=github_dark" height="190" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=salmanmalyk&theme=github_dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=salmanmalyk&theme=default" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=salmanmalyk&theme=github_dark" height="190" alt="Top languages by repo" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=salmanmalyk&theme=github_dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=salmanmalyk&theme=default" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=salmanmalyk&theme=github_dark" height="190" alt="Top languages by commit" />
+  </picture>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=salmanmalyk&theme=dark&background=0d1117&ring=13AA50&fire=13AA50&currStreakLabel=13AA50&hide_border=true" height="190" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=salmanmalyk&theme=github_dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=salmanmalyk&theme=default" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=salmanmalyk&theme=github_dark" height="190" alt="GitHub stats" />
+  </picture>
 </p>
 
 ---
@@ -109,4 +167,6 @@ const salman = {
 
 <p align="center"><i>"Code is like humor. When you have to explain it, it's bad." — Cory House</i></p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:13AA50,50:203a43,100:0d1117&height=120&section=footer" width="100%" />
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:13AA50,100:0969DA&height=4" width="100%" alt="" />
+</p>
