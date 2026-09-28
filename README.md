@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:203a43,100:13AA50&height=190&section=header&text=Salman%20Malik&fontSize=58&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Engineer%20and%20AI%20Automation&descAlignY=60&descSize=16" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:203a43,100:13AA50&height=190&section=header&text=Salman&fontSize=58&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Engineer%20and%20AI%20Automation&descAlignY=60&descSize=16" width="100%" />
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2600&pause=1200&color=13AA50&center=true&vCenter=true&width=820&lines=Laravel+%C2%B7+React+%C2%B7+Next.js+%C2%B7+Node.js;LangChain+%C2%B7+LangGraph+%C2%B7+n8n;I+build+agents+that+do+the+boring+work" alt="Typing SVG" />
